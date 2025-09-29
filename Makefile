@@ -1,7 +1,7 @@
 # Makefile for Pokémon TCG Dataset Pipeline
 
 BASE_DIR=./data
-SCRIPT=scripts/tcgcsv_pokemon_pipeline.py
+SCRIPT=pokemon-tcg-pricing/scripts/create_data/tcgcsv_pokemon_pipeline.py
 
 # Calculate yesterday in YYYY-MM-DD format
 YESTERDAY=$(shell date -d "yesterday" +%Y-%m-%d)
