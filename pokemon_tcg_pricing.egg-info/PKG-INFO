@@ -1,0 +1,16 @@
+Metadata-Version: 2.4
+Name: pokemon-tcg-pricing
+Version: 0.1.0
+Summary: Dataset extraction and analysis of Pokémon TCG cards and pricing using the tcgdex API
+Author-email: Aidan Adams <awadams@vt.edu>
+Requires-Python: >=3.10
+Description-Content-Type: text/markdown
+Requires-Dist: tcgdex-sdk
+Requires-Dist: pandas
+Requires-Dist: numpy
+Requires-Dist: matplotlib
+Requires-Dist: scikit-learn
+Requires-Dist: tqdm>=4.67.1
+Requires-Dist: requests>=2.32.5
+Requires-Dist: py7zr>=1.0.0
+Requires-Dist: pyarrow>=21.0.0

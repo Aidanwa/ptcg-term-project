@@ -1,0 +1,7 @@
+README.md
+pyproject.toml
+pokemon_tcg_pricing.egg-info/PKG-INFO
+pokemon_tcg_pricing.egg-info/SOURCES.txt
+pokemon_tcg_pricing.egg-info/dependency_links.txt
+pokemon_tcg_pricing.egg-info/requires.txt
+pokemon_tcg_pricing.egg-info/top_level.txt
