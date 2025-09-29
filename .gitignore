@@ -2,6 +2,9 @@
 data/
 !data_sample/
 
+# Ignore class documents
+docs/
+
 # Python cruft
 __pycache__/
 *.pyc

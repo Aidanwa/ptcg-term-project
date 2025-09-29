@@ -1,9 +1,0 @@
-tcgdex-sdk
-pandas
-numpy
-matplotlib
-scikit-learn
-tqdm>=4.67.1
-requests>=2.32.5
-py7zr>=1.0.0
-pyarrow>=21.0.0
