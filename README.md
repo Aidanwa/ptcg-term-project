@@ -103,24 +103,6 @@ These commands assume:
 
 ---
 
-## 📝 .gitignore Example
-
-```gitignore
-# Ignore all pipeline outputs
-data/
-!data_sample/
-
-# Python cruft
-__pycache__/
-*.pyc
-*.pyo
-
-# Virtual environments
-.venv/
-```
-
----
-
 ## 📂 Directory Layout
 
 ```text
